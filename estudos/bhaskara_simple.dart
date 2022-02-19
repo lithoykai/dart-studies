@@ -1,12 +1,6 @@
 import 'dart:io';
 import 'dart:math';
 
-/*main() {
-// Calcular área da circuferência = Pi * raio * raio
-  var entradaDoUsuario = stdin.readLineSync();
-  var raio = double.parse(entradaDoUsuario ?? 'Não informado');
-  print('O valor do raio é $raio');
-} */
 double? delta;
 double? xneg;
 double? xpos;
