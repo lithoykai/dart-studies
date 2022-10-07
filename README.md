@@ -1,2 +1,2 @@
-# Basic Flutter - My first studies.
-My Flutter repository focusing on my initial studies.
+# Basic Dart - My first studies.
+My Dart repository focusing on my initial studies.
